@@ -1,0 +1,15 @@
+def student ():
+     classOne = 10
+     classTwo = 10
+     totalStudents = classOne + classTwo
+     print(totalStudents)
+
+student()
+
+def ashis ():
+     customerOne = 100
+     customerTwo = 90
+     totalCustomer = customerOne + customerTwo
+     print(totalCustomer)
+
+ashis()
